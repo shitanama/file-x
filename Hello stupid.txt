@@ -1,4 +1,7 @@
-Print("Hello stupid!!");
-print("hi")
-print("enemy")
-print("George")
+Print("Hello stupid!!;");
+print("hi;")
+print("enemy;")
+print("George;")
+Print("Hello stupid!!;");
+print("hi;")
+
