@@ -1,2 +1,2 @@
-Print("Hello stupid!!");
-print("hi")
+Print("Hello stupid!!;");
+print("hi;")
