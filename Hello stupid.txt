@@ -1,1 +1,1 @@
-Print("Hello stupid!");
+Print("Hello stupid!!");
